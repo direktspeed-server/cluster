@@ -8,7 +8,7 @@
   "author": "TJ Holowaychuk <tj@learnboost.com> (http://tjholowaychuk.com)",
   "main": "index",
   "dependencies": {
-      "log": ">= 1.2.0"
+      "log": ">=3.2.0"
     , "mkdirp": ">= 0.0.1"
   },
   "devDependencies": { "should": "~11.2.1" },
